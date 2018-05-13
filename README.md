@@ -27,6 +27,7 @@
 | ViewDNSInfo | http://www.viewdns.info/ | DNS | One-stop-shop for reverse IP lookups, ASN information,and reverse whois queries.  |
 | Whoisology | https://whoisology.com/ | Reverse Whois lookup | One-stop-shop for reverse whois lookup.   |
 | Crunchbase| https://www.crunchbase.com/ | Org information | Useful for profiling large organizations, discovering subsidiaries, acquisitions, and executives. | 
+| Google Hacking | https://www.exploit-db.com/google-hacking-database/14/ | Org Investigation | Useful for both profiling and discovering files in an organization that are indexed on Google. Often there are files indexed on Google that should not be public. | 
 
 ### APIs/Frameworks
 | Type | Site | Purpose | Description |

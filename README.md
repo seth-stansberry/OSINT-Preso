@@ -1,6 +1,6 @@
 ## Slides: https://docs.google.com/presentation/d/19n0PTzG2x0-CUeF_zrRl7_GNeoXS2IQlZCum9E2s_XE/edit?usp=sharing
 
-### CTF: https://seths.me
+### CTF: [removed]
 
 
 ### OSINT Curated Pages
